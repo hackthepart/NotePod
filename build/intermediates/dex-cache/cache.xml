@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00c25e0d684457fb43528eda56a7d3b898cc942f">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_65aa428925306f513f720fe70b9261c373400530/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_87393ee671507b70fc50fa701d1a52bd51c8cc56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.mikepenz/materialize/0.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dad684c489525a68656ac3402ec6835abe475cc7">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialize-0.2.0_68874d4b06e8491199cd1091cffbac3fccd93a81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_52b6b523a8deafe066c996d32ead4a850f5fa92d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_287cc109ad10737db558594a481c71974ac45466/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.0_abcb76a9021db93a4e7d8f72d225310e575fa985/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_6384f37e6373dc1bc3a77f7baa813ace92fe8ff1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_ad6d35bd6965eec68510f3ef31a4b9db0f25d9c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.melnykov-floatingactionbutton-1.3.0_81f5dac74d28bc982ca9a35363dd337e87718f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_4046b0faf1f6369c913b602c1785a7f9ed7a8258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.mikepenz/fontawesome-typeface/4.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="103374af53a808aa7fab0abeba4dd6e4f7a9a567">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-fontawesome-typeface-4.4.0_161f69f8d9345583739be9db6ff99d581f45f594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_3686cd85b60f3de77dc815d17c197a3604fb55f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/4.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da2483cefebd7e0d9bacfb687962128ac6fb1950">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialdrawer-4.0.5_06148a60a6ea8a5bfa25d1f39903858409450cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_2837b1bde8ffff46c95409d1c7959d41773efc3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/1.7.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed0ad4d0833048e8ca600102836932ae2a58956c">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-iconics-core-1.7.5_0ac51cd3826adda48d81768783d844b8a9ff9d51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="255d4b0d4f69f9bf302992aa6a1704fae1435e18">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d71695c122c1793ab6e5ef8da176cb1818d5b767/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_6259fa004523e561fa608ff9a1052d32d9c466f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_740b4c80816bc121fe1d6cf1bd99a917d25c3f42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_c60852c9988428141808981f0ab7f9d5291a64fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/jatin_jt_narula/Downloads/NotePod/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_023a0e2d15c8da38ca5992dee0c825004a02d201/classes.dex" />
+    </item>
+
+</items>
